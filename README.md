@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="./Satyam-prajapti-genrate-img.png" width="280" alt="Satyam Prajapati" style="border-radius: 50%; margin: 20px 0;" />
+  <img src="./Satyam.png" width="280" alt="Satyam Prajapati" style="border-radius: 50%; margin: 20px 0;" />
 </div>
 
 <div align="center">
@@ -99,11 +99,11 @@ const satyam = {
   | Project | Description | Tech Stack | Links |
   |---------|-------------|------------|-------|
   | 🔬 **Vetcare** | Full Stack Pet Care Application | React, Node.js, MongoDB | [Code](https://github.com/satyam0777/vetcare-project) |
-  | 🧠 **Second Brain** | Smart Notes & Knowledge Manager | Next.js, TypeScript, Tailwind | [Code](https://github.com/satyam0777/Second-Brain-Project) |
+  | 🧠 **Second Brain** | Smart Notes & Knowledge Manager | React, Node.js, MongoDB | [Code](https://github.com/satyam0777/Second-Brain-Project) |
   | 📝 **Blog Platform** | Modern Blogging Application | React, Express, MongoDB | [Code](https://github.com/satyam0777/Blog-App-Project) |
   | ❤️ **DevTinder** | Developer Connection Platform | MERN Stack, Socket.io | [Code](https://github.com/satyam0777/devTinder) |
-  
 </div>
+
 
 ---
 
@@ -134,7 +134,7 @@ const satyam = {
 
 ```yaml
 Learning:
-  - System Design Patterns
+  - System Design Basics
   - DevOps basic & CI/CD Pipelines
   - Advanced DSA & Competitive Programming
   - Microservices Architecture
@@ -156,15 +156,6 @@ Goals_2025:
   
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=satyam0777&theme=tokyonight" alt="WakaTime Stats" />
-  
-</div>
 
 ---
 
