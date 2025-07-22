@@ -13,7 +13,6 @@
   [![GitHub followers](https://img.shields.io/github/followers/satyam0777?style=for-the-badge&color=orange&labelColor=000000)](https://github.com/satyam0777)
   [![GitHub stars](https://img.shields.io/github/stars/satyam0777?style=for-the-badge&color=orange&labelColor=000000)](https://github.com/satyam0777)
   [![Profile views](https://komarev.com/ghpvc/?username=satyam0777&style=for-the-badge&color=orange&labelColor=000000)](https://github.com/satyam0777)
-  
 </div>
 
 ---
@@ -48,7 +47,7 @@ const satyam = {
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Satyam9352)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/satyam0777/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam0777)
-  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://portfolio-rosy-tau-rws7s0np3k.vercel.app/)
 </div>
 
 ---
@@ -98,8 +97,8 @@ const satyam = {
   
   | Project | Description | Tech Stack | Links |
   |---------|-------------|------------|-------|
-  | 🔬 **Vetcare** | Full Stack Pet Care Application | React, Node.js, MongoDB | [Code](https://github.com/satyam0777/vetcare-project) |
-  | 🧠 **Second Brain** | Smart Notes & Knowledge Manager | React, Node.js, MongoDB | [Code](https://github.com/satyam0777/Second-Brain-Project) |
+  | 🔬 **Vetcare** | Full Stack Pet Care Application | React, Node.js, MongoDB | [Live](https://vetcare-project.vercel.app/) |
+  | 🧠 **Second Brain** | Smart Notes & Knowledge Manager | React, Node.js, MongoDB | [Live](https://second-brain-project.vercel.app/) |
   | 📝 **Blog Platform** | Modern Blogging Application | React, Express, MongoDB | [Code](https://github.com/satyam0777/Blog-App-Project) |
   | ❤️ **DevTinder** | Developer Connection Platform | MERN Stack, Socket.io | [Code](https://github.com/satyam0777/devTinder) |
 </div>
